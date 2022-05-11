@@ -1,5 +1,5 @@
 .home-background {
-    background-color:  #888888;
+    background: url(https://paintandsipstudiotemecula.com/wp-content/uploads/fa8622519959c28065ef77a7efcfaa14.jpg);
 }
 
 header {
@@ -12,10 +12,31 @@ header {
 }
 
 p {
-background: #deefb7;
+background: #c2fcf7;
 block-size: 100px;
 text-align: center;
 font-size: 20px;
+}
+
+.centerline {
+margin-left: 20%;
+margin-right: 20%;
+border-radius: 4px;
+}
+
+.leftline {
+margin-left: 0%;
+margin-right: 77.75%;
+block-size: 50px;
+border-radius: 4px;
+}
+
+.centerp {
+    position: absolute;
+    top: 56.7%;
+    left: 31.9%;
+    border-radius: 4px;
+    block-size: 75px;
 }
 
 img {
@@ -48,5 +69,13 @@ p a {
     font-size: 25px;
     font-weight: bold;
     color: rgb(150, 0, 50)
+}
+
+.dot {
+    color: #c2fcf7;
+}
+
+.albert {
+    left: 30%;
 }
 
